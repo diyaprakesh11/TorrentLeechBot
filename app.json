@@ -5,7 +5,7 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/diyaprakesh11/TorrentLeechBot",
+  "repository": "https://github.com/diyaprakesh11/TorrentLeechBot.git",
   "success_url": "https://t.me/torrentgs",
   "env": {
     "ENV": {
